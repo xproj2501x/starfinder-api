@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Player 1",
+    "init": 0,
+    "initBonus": 0,
+    "stamina": {
+      "max": 25,
+      "current": 25
+    },
+    "hitPoints": {
+      "max": 25,
+      "current": 25
+    },
+    "kac": 17,
+    "eac": 17
+  },
+  {
+    "id": 2,
+    "name": "Player 2",
+    "init": 0,
+    "initBonus": 0,
+    "stamina": {
+      "max": 25,
+      "current": 25
+    },
+    "hitPoints": {
+      "max": 25,
+      "current": 25
+    },
+    "kac": 17,
+    "eac": 17
+  },
+  {
+    "init": 0,
+    "initBonus": 0,
+    "name": "Player 3",
+    "stamina": {
+      "max": 25,
+      "current": 25
+    },
+    "hitPoints": {
+      "max": 25,
+      "current": 25
+    },
+    "kac": 17,
+    "eac": 17
+  },
+  {
+    "init": 0,
+    "initBonus": 0,
+    "name": "Player 4",
+    "stamina": {
+      "max": 25,
+      "current": 25
+    },
+    "hitPoints": {
+      "max": 25,
+      "current": 25
+    },
+    "kac": 17,
+    "eac": 17
+  },
+  {
+    "init": 0,
+    "initBonus": 0,
+    "name": "Monster 1",
+    "stamina": {
+      "max": 25,
+      "current": 25
+    },
+    "hitPoints": {
+      "max": 25,
+      "current": 25
+    },
+    "kac": 17,
+    "eac": 17
+  },
+  {
+    "init": 0,
+    "initBonus": 0,
+    "name": "Monster 2",
+    "stamina": {
+      "max": 25,
+      "current": 25
+    },
+    "hitPoints": {
+      "max": 25,
+      "current": 25
+    },
+    "kac": 17,
+    "eac": 17
+  },
+  {
+    "init": 0,
+    "initBonus": 0,
+    "name": "Monster 3",
+    "stamina": {
+      "max": 25,
+      "current": 25
+    },
+    "hitPoints": {
+      "max": 25,
+      "current": 25
+    },
+    "kac": 17,
+    "eac": 17
+  },
+  {
+    "init": 0,
+    "initBonus": 0,
+    "name": "Monster 4",
+    "stamina": {
+      "max": 25,
+      "current": 25
+    },
+    "hitPoints": {
+      "max": 25,
+      "current": 25
+    },
+    "kac": 17,
+    "eac": 17
+  }
+]
