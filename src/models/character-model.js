@@ -24,10 +24,7 @@ const CHARACTER_STATUS = {
 
 const SCHEMA = mongoose.Schema;
 const CHARACTER = new SCHEMA({
-  name: { type: String, required: true, dropDupes: true },
-
-  dateCreated: { type: Date, default: Date.now },
-  lastUpdated: { type: Date, default: Date.now }
+  name: { type: String, required: true, dropDupes: true }
 });
 
 ////////////////////////////////////////////////////////////////////////////////
